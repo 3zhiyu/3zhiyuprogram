@@ -35,7 +35,7 @@
 答案：代天府、flood、玄天上帝、輸入地點【集福宮、廢棄電塔、崇福宮】、點擊順序【甕城跤角→頂合源角→合發角→烏濁角→下合源角→後樓角→甕城跤角→合發角】、0954815481
 
 ## 《府城x聖獸x遺忘之歌》實境遊戲程式
-1. 遊戲網址：https://tina458615.github.io/tainanwcdo/index.html
+1. 遊戲網址：<https://tina458615.github.io/tainanwcdo/index.html>
 2. [遊戲程式檔案](https://drive.google.com/file/d/1Q_SSlwcSZI8-MCbmdbT6ZsTe_GHBpVqE/view?usp=share_link)  
 遊戲側邊欄可以選擇章節
 
