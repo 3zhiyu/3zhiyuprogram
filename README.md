@@ -7,8 +7,9 @@
   2. 【公司內部開發用】TWINE常用語法/系統/功能整理：<https://3zhiyu.github.io/tinatest/twinetool>
 4. 【BY品均】TWINE功能文件
   1. Twine 自主開發系統說明：<https://hackmd.io/@lanisairhead/By4LKigTh>
+  2. TWEEGO [安裝教學簡報](https://docs.google.com/presentation/d/1cugyhsHBsL3TVIgkUOuaTGPBXvdNCs8OyN8Mkn5EPT0/edit?usp=sharing)
 
-##  TWINE官方資料(均英文)
+##  TWINE官方資料(英文為主)
 1. [TWINE官網](https://twinery.org/)
 2. [TWINE用戶指南](https://twinery.org/reference/en)：入門前建立基礎觀念的說明文件
 3. [Twine Cookbook(英文)](https://twinery.org/cookbook)：Twine教學+各格式的語法範例
@@ -24,6 +25,7 @@
 8. TWINE語法相關
    1. 【Sugarcube自訂巨集網站】Sample Code：<https://qjzhvmqlzvoo5lqnrvuhmg.on.drv.tw/UInv/Sample_Code.html#Main%20Menu>
    2. 【Sugarcube自訂巨集網站】Twine Lab：<https://twinelab.net/projects.html>
+
 
 # TWINE專案成果
 ## 《府城奇聞錄》實境遊戲程式
@@ -49,10 +51,10 @@
   用類似返校、還願ARG的概念，透過模擬網頁解開的資訊得到遊戲網址
 
 ## 《三隻魚新聞台》歷史議題遊戲
-### 第一集
+#### 第一集
 1. [遊戲網址](https://3zhiyu.github.io/%E4%B8%89%E9%9A%BB%E9%AD%9A%E6%AD%B7%E5%8F%B2%E6%96%B0%E8%81%9E%EF%BC%9A%E6%B7%BA%E9%87%8E%E7%BD%B7%E5%B7%A5%E4%BA%8B%E4%BB%B6%E7%B0%BF.html)
 2. [程式檔案](https://drive.google.com/file/d/1U56pRH3HP9NargY6xCwVTAIL7sOHbfiM/view?usp=sharing)
-### 第二集
+#### 第二集
 1. [腳本大綱](https://docs.google.com/document/d/1hWaCXpqUGK5JmXsbsZx9knRvCNpUTSSPeOYpTjABQ9s/edit?usp=sharing)
 
 ## 《鮐窩灣大水》歷史議題遊戲
@@ -63,8 +65,9 @@
 1. 網站網址：<https://3zhiyu.github.io/tainanhakka>
 2. [網站程式檔案(github專案)](https://github.com/3zhiyu/3zhiyu.github.io/tree/main/tainanhakka)
 
+
 # 其他資料
-## TWINE專案線上發布網站：透過github來建立靜態網站
+## TWINE專案線上發布：透過github來建立靜態網站
   設定的網址是 _https://3zhiyu.github.io/專案名稱/twine檔案名稱.html_
   開發twine並部屬到github的流程參考[此網站說明](https://dev.to/lazerwalker/a-modern-developer-s-workflow-for-twine-4imp)
 
