@@ -30,14 +30,14 @@
 # TWINE專案成果
 ## 《府城奇聞錄》實境遊戲程式
 1. 遊戲網址：<https://tina458615.github.io/>
-2. 遊戲程式檔案：<https://tina458615.github.io/%E5%BA%9C%E5%9F%8E%E5%A5%87%E8%81%9E%E9%8C%84.rar>
-  遊戲開通密碼：lookoostone
-  答案：代天府、flood、玄天上帝、輸入地點【集福宮、廢棄電塔、崇福宮】、點擊順序【甕城跤角→頂合源角→合發角→烏濁角→下合源角→後樓角→甕城跤角→合發角】、0954815481
+2. 遊戲程式檔案：<https://tina458615.github.io/%E5%BA%9C%E5%9F%8E%E5%A5%87%E8%81%9E%E9%8C%84.rar>  
+遊戲開通密碼：lookoostone  
+答案：代天府、flood、玄天上帝、輸入地點【集福宮、廢棄電塔、崇福宮】、點擊順序【甕城跤角→頂合源角→合發角→烏濁角→下合源角→後樓角→甕城跤角→合發角】、0954815481
 
 ## 《府城x聖獸x遺忘之歌》實境遊戲程式
 1. 遊戲網址：https://tina458615.github.io/tainanwcdo/index.html
-2. [遊戲程式檔案](https://drive.google.com/file/d/1Q_SSlwcSZI8-MCbmdbT6ZsTe_GHBpVqE/view?usp=share_link)
-  遊戲側邊欄可以選擇章節
+2. [遊戲程式檔案](https://drive.google.com/file/d/1Q_SSlwcSZI8-MCbmdbT6ZsTe_GHBpVqE/view?usp=share_link)  
+遊戲側邊欄可以選擇章節
 
 ## 台史博語音助理腳本原型
 1. 原型網址：<https://3zhiyu.github.io/GAdemo/demov2.html>
@@ -46,9 +46,9 @@
 ## 《留草遺芳錄》ARG拳師解謎遊戲
 1. [整體企劃體驗的模擬網頁](https://docs.google.com/presentation/d/1SQgOX5w00YeSog5ir_Yu0lf6VnlD_Xv6G3Twx3ffUnY/edit#slide=id.p)
 2. 遊戲網址(雛型)：<https://3zhiyu.github.io/tinatest/gamev1.html>
-3. 關鍵字線索文件：[推理公式](https://docs.google.com/spreadsheets/d/14Zmdeu7QMIA4pa-c_I6yOlbukk2rzrHwCglFgQUpaFc/edit#gid=439883797)
-  泰盛發想，只有做完遊戲雛型，未正式發佈。
-  用類似返校、還願ARG的概念，透過模擬網頁解開的資訊得到遊戲網址
+3. 關鍵字線索文件：[推理公式](https://docs.google.com/spreadsheets/d/14Zmdeu7QMIA4pa-c_I6yOlbukk2rzrHwCglFgQUpaFc/edit#gid=439883797)  
+泰盛發想，只有做完遊戲雛型，未正式發佈。  
+用類似返校、還願ARG的概念，透過模擬網頁解開的資訊得到遊戲網址
 
 ## 《三隻魚新聞台》歷史議題遊戲
 #### 第一集
@@ -68,6 +68,6 @@
 
 # 其他資料
 ## TWINE專案線上發布：透過github來建立靜態網站
-  設定的網址是 _https://3zhiyu.github.io/專案名稱/twine檔案名稱.html_
-  開發twine並部屬到github的流程參考[此網站說明](https://dev.to/lazerwalker/a-modern-developer-s-workflow-for-twine-4imp)
+設定的網址是 _https://3zhiyu.github.io/專案名稱/twine檔案名稱.html_  
+開發twine並部屬到github的流程參考[此網站說明](https://dev.to/lazerwalker/a-modern-developer-s-workflow-for-twine-4imp)
 
