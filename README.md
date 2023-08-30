@@ -5,4 +5,4 @@
 https://3zhiyu.github.io/3zhiyuprogram/專案名稱/檔案名稱.html
 
 ## TWINE專案相關資料
-詳見此[README文件](https://3zhiyu.github.io/3zhiyuprogram/twine%E5%B0%88%E6%A1%88/)https://3zhiyu.github.io/3zhiyuprogram/twine%E5%B0%88%E6%A1%88/
+詳見此[README文件](https://3zhiyu.github.io/3zhiyuprogram/twine%E5%B0%88%E6%A1%88/)
