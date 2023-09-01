@@ -1,11 +1,12 @@
 # 三知餘文化TWINE專案相關資料
 ## 公司自製教學文件
-1. TWINE入門教學簡報：<https://docs.google.com/presentation/d/1-J1nWYcGh_ORz9LzOVhdSj1OnL30IGdT1rXE912J084/edit?usp=drive_link>
-2. TWINE進階語法教學簡報：<https://docs.google.com/presentation/d/1U6TH2I-s6UQXu1-x-TEvsSNvUJzxc0chf0pazmcaZEw/edit?usp=drive_link>
-3. 【BY雅婷】TWINE語法教學網站
+1. twine教學簡報
+   1. TWINE入門教學簡報：<https://docs.google.com/presentation/d/1-J1nWYcGh_ORz9LzOVhdSj1OnL30IGdT1rXE912J084/edit?usp=drive_link>
+   2. TWINE進階語法教學簡報：<https://docs.google.com/presentation/d/1U6TH2I-s6UQXu1-x-TEvsSNvUJzxc0chf0pazmcaZEw/edit?usp=drive_link>
+2. 【BY雅婷】TWINE語法教學網站
    1. 【學校課程用】給TWINE新手的語法教學：<https://3zhiyu.github.io/tinatest/twineteach>
    2. 【公司內部開發用】TWINE常用語法/系統/功能整理：<https://3zhiyu.github.io/tinatest/twinetool>
-4. 【BY品均】TWINE功能文件
+3. 【BY品均】TWINE功能文件
    1. Twine 自主開發系統說明：<https://hackmd.io/@lanisairhead/By4LKigTh>
    2. TWEEGO [安裝教學簡報](https://docs.google.com/presentation/d/1cugyhsHBsL3TVIgkUOuaTGPBXvdNCs8OyN8Mkn5EPT0/edit?usp=sharing)
 
