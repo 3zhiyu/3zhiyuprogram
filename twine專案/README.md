@@ -9,6 +9,7 @@
 3. 【BY品均】TWINE功能文件
    1. Twine 自主開發系統說明：<https://hackmd.io/@lanisairhead/By4LKigTh>
    2. TWEEGO [安裝教學簡報](https://docs.google.com/presentation/d/1cugyhsHBsL3TVIgkUOuaTGPBXvdNCs8OyN8Mkn5EPT0/edit?usp=sharing)
+4. 【BY品均】Twine常見QA問答集：<https://hackmd.io/@lanisairhead/BkhDqVSk6>
 
 ##  TWINE官方資料(英文為主)
 1. [TWINE官網](https://twinery.org/)
