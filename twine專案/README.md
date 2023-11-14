@@ -67,6 +67,11 @@
 1. 網站網址：<https://3zhiyu.github.io/tainanhakka>
 2. [網站程式檔案(github專案)](https://github.com/3zhiyu/3zhiyu.github.io/tree/main/tainanhakka)
 
+## 《串聯文協一百點，尋找文協新起點》走讀解謎遊戲
+承辦國立台灣文學館文協百點走讀活動，搭配走讀、邊聽導覽邊解謎
+1. 台南場-蔡培火的犯罪紀錄：<https://3zhiyu.github.io/tcatainangame>
+2. 彰化場-賴和友人帳：<https://3zhiyu.github.io/tcachanghuagame>
+3. 台北場-報導蔣渭水：<https://3zhiyu.github.io/tcataipeigame>
 
 # 其他資料
 ## TWINE專案線上發布：透過github來建立靜態網站
