@@ -73,6 +73,10 @@
 2. 彰化場-賴和友人帳：<https://3zhiyu.github.io/tcachanghuagame>
 3. 台北場-報導蔣渭水：<https://3zhiyu.github.io/tcataipeigame>
 
+## 《盒玩臺南開箱樂》互動網站
+1. 網站網址：<https://tainan-400-funbox.web.app/>
+2. [網站程式檔案(github專案)](https://github.com/3zhiyutw/tainan4000test)
+
 # 其他資料
 ## TWINE專案線上發布：透過github來建立靜態網站
 設定的網址是 _https://3zhiyu.github.io/專案名稱/twine檔案名稱.html_  
